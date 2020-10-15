@@ -26,12 +26,22 @@
 ### 教材
 [タートルグラフィックス編教材](text/index.html){:target="_blank"}
 
-### 演習環境
+[HTML+CSS編教材](text-part2/index.html){:target="_blank"}
+
+### 演習環境（タートルグラフィックス編: Sumatra）
 <ul>
 <li><a href="https://pp1.si.aoyama.ac.jp/sumatra.html" target="_blank">村田クラス</a></li>
 <li><a href="https://pp2.si.aoyama.ac.jp/sumatra.html" target="_blank">東クラス</a></li>
 <li><a href="https://pp3.si.aoyama.ac.jp/sumatra.html" target="_blank">齋藤クラス</a></li>
 <li><a href="https://pp4.si.aoyama.ac.jp/sumatra.html" target="_blank">松澤クラス</a></li>
+</ul>
+
+### 演習環境（HTML+CSS編: Kenya）
+<ul>
+<li><a href="https://pp1.si.aoyama.ac.jp/kenya.html" target="_blank">村田クラス</a></li>
+<li><a href="https://pp2.si.aoyama.ac.jp/kenya.html" target="_blank">東クラス</a></li>
+<li><a href="https://pp3.si.aoyama.ac.jp/kenya.html" target="_blank">齋藤クラス</a></li>
+<li><a href="https://pp4.si.aoyama.ac.jp/kenya.html" target="_blank">松澤クラス</a></li>
 </ul>
 
 ### 以下は学生の方は使わないでください
